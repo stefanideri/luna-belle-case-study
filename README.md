@@ -1,12 +1,21 @@
 # 🌙 Luna Belle – The Magical Journey
 
-**A Concept Art & Marketing Asset Project for a Fictional Mobile Game Inspired by Barbie-Style Storytelling**
+**A Concept Art & Marketing Case Study for a Fictional Mobile Game Inspired by Barbie-Style Storytelling**
 
 ---
 
-## ✨ Overview
+## ✨ Why This GitHub Case Study?
 
-Welcome to the enchanting world of **Luna Belle**, a magical heroine designed to embody elegance, fantasy, and emotional storytelling. This project simulates the kind of visual assets and marketing materials expected from a **2D Concept & Marketing Artist** in the digital gaming industry — with a strong focus on **Mattel’s brand aesthetics**.
+While the [Behance portfolio](https://www.behance.net/gallery/234518991/Luna-Belle-The-Magical-Journey) showcases the final visual assets, this GitHub repository dives deeper into the **creative process**, **strategic thinking**, and **technical decisions** behind the project.
+
+Here you'll find:
+- The narrative and emotional goals that shaped Luna Belle’s universe  
+- Prompt engineering experiments using Google AI Studio  
+- Marketing simulations for user acquisition and brand alignment  
+- Visual development breakdowns and asset rationale  
+- Self-directed learning paths and tool integration
+
+This case study is designed to reflect the mindset of a **2D Concept & Marketing Artist** who not only creates beautiful visuals, but also understands how to position them for impact in the gaming industry.
 
 ---
 
